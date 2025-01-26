@@ -1,0 +1,11 @@
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\bin\Debug\net9.0\AttachmentService.Domain.deps.json
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\bin\Debug\net9.0\AttachmentService.Domain.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\bin\Debug\net9.0\AttachmentService.Domain.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\AttachmentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\AttachmentService.Domain.AssemblyInfoInputs.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\AttachmentService.Domain.AssemblyInfo.cs
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\AttachmentService.Domain.csproj.CoreCompileInputs.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\AttachmentService.Domain.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\refint\AttachmentService.Domain.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\AttachmentService.Domain.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Domain\obj\Debug\net9.0\ref\AttachmentService.Domain.dll

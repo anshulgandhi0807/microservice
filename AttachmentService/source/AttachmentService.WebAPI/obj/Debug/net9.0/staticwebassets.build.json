@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ngW1vrWpvqXPPoxrPl7dbufeJGKDW/dBofAAM1wAjj0=",
+  "Source": "AttachmentService.WebAPI",
+  "BasePath": "_content/AttachmentService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

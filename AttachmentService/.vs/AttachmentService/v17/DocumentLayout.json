@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microservice_POC\\AttachmentService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|solutionrelative:source\\attachmentservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5C1B16-387C-4304-898A-D5DB5201FE4C}|source\\AttachmentService.Application\\AttachmentService.Application.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.application\\usecases\\v1\\deletefile\\deletefilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5C1B16-387C-4304-898A-D5DB5201FE4C}|source\\AttachmentService.Application\\AttachmentService.Application.csproj|solutionrelative:source\\attachmentservice.application\\usecases\\v1\\deletefile\\deletefilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.webapi\\attachmentservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|solutionrelative:source\\attachmentservice.webapi\\attachmentservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.webapi\\usecases\\v1\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|solutionrelative:source\\attachmentservice.webapi\\usecases\\v1\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B46BE404-4464-49AC-AD50-11ED93FB71E7}|source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj|solutionrelative:source\\attachmentservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5C1B16-387C-4304-898A-D5DB5201FE4C}|source\\AttachmentService.Application\\AttachmentService.Application.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.application\\usecases\\v1\\deletefile\\deletefileinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5C1B16-387C-4304-898A-D5DB5201FE4C}|source\\AttachmentService.Application\\AttachmentService.Application.csproj|solutionrelative:source\\attachmentservice.application\\usecases\\v1\\deletefile\\deletefileinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5C1B16-387C-4304-898A-D5DB5201FE4C}|source\\AttachmentService.Application\\AttachmentService.Application.csproj|d:\\microservice_poc\\attachmentservice\\source\\attachmentservice.application\\usecases\\v1\\deletefile\\deletefilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5C1B16-387C-4304-898A-D5DB5201FE4C}|source\\AttachmentService.Application\\AttachmentService.Application.csproj|solutionrelative:source\\attachmentservice.application\\usecases\\v1\\deletefile\\deletefilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiRoutes.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "RelativeDocumentMoniker": "source\\AttachmentService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "RelativeToolTip": "source\\AttachmentService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:39:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "source\\AttachmentService.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\appsettings.json",
+              "RelativeToolTip": "source\\AttachmentService.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T12:47:00.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttachmentService.WebAPI",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj",
+              "RelativeDocumentMoniker": "source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj",
+              "RelativeToolTip": "source\\AttachmentService.WebAPI\\AttachmentService.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T12:45:10.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "source\\AttachmentService.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.WebAPI\\Program.cs",
+              "RelativeToolTip": "source\\AttachmentService.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:44:31.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteFileHandler.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileHandler.cs",
+              "RelativeDocumentMoniker": "source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileHandler.cs",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileHandler.cs",
+              "RelativeToolTip": "source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:26:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteFileVm.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileVm.cs",
+              "RelativeDocumentMoniker": "source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileVm.cs",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileVm.cs",
+              "RelativeToolTip": "source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:24:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteFileInput.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileInput.cs",
+              "RelativeDocumentMoniker": "source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileInput.cs",
+              "ToolTip": "D:\\Microservice_POC\\AttachmentService\\source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileInput.cs",
+              "RelativeToolTip": "source\\AttachmentService.Application\\UseCases\\V1\\DeleteFile\\DeleteFileInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:23:54.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

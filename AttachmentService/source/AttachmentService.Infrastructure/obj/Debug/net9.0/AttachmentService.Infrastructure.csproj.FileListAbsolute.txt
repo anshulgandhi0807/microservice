@@ -1,0 +1,17 @@
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.csproj.AssemblyReference.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.AssemblyInfoInputs.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.AssemblyInfo.cs
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Infrastructure.deps.json
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Infrastructure.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Infrastructure.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Application.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Domain.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Application.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\bin\Debug\net9.0\AttachmentService.Domain.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\Attachme.1491A8B9.Up2Date
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\refint\AttachmentService.Infrastructure.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\AttachmentService.Infrastructure.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Infrastructure\obj\Debug\net9.0\ref\AttachmentService.Infrastructure.dll

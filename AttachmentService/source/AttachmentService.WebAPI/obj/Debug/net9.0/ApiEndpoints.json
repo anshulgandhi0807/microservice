@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "AttachmentService.WebAPI.UseCases.V1.DeleteFile.DeleteFileController",
+    "Method": "DeleteFile",
+    "RelativePath": "api/1/attachment/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttachmentService.WebAPI.UseCases.V1.DownloadFile.DownloadFileController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/1/attachment/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttachmentService.WebAPI.UseCases.V1.GetFiles.GetFilesController",
+    "Method": "GetFiles",
+    "RelativePath": "api/1/attachment/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttachmentService.WebAPI.UseCases.V1.UploadFile.UploadFileController",
+    "Method": "UploadFile",
+    "RelativePath": "api/1/attachment/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

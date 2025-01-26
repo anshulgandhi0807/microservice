@@ -1,0 +1,12 @@
+D:\Microservice_POC\AuthService\source\AuthService.Application\bin\Debug\net9.0\AuthService.Application.deps.json
+D:\Microservice_POC\AuthService\source\AuthService.Application\bin\Debug\net9.0\AuthService.Application.dll
+D:\Microservice_POC\AuthService\source\AuthService.Application\bin\Debug\net9.0\AuthService.Application.pdb
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.csproj.AssemblyReference.cache
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.AssemblyInfoInputs.cache
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.AssemblyInfo.cs
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.csproj.CoreCompileInputs.cache
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.dll
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\refint\AuthService.Application.dll
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\AuthService.Application.pdb
+D:\Microservice_POC\AuthService\source\AuthService.Application\obj\Debug\net9.0\ref\AuthService.Application.dll

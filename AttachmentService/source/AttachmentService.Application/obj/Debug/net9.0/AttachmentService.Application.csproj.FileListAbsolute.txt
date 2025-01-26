@@ -1,0 +1,12 @@
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.csproj.AssemblyReference.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.AssemblyInfoInputs.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.AssemblyInfo.cs
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.csproj.CoreCompileInputs.cache
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\bin\Debug\net9.0\AttachmentService.Application.deps.json
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\bin\Debug\net9.0\AttachmentService.Application.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\bin\Debug\net9.0\AttachmentService.Application.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\refint\AttachmentService.Application.dll
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\AttachmentService.Application.pdb
+D:\Microservice_POC\AttachmentService\source\AttachmentService.Application\obj\Debug\net9.0\ref\AttachmentService.Application.dll

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microservice_POC\\AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\microservice_poc\\authservice\\source\\authservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:source\\authservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086082D-334C-4E43-83EA-615B293DFA03}|source\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\microservice_poc\\authservice\\source\\authservice.infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086082D-334C-4E43-83EA-615B293DFA03}|source\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:source\\authservice.infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\microservice_poc\\authservice\\source\\authservice.webapi\\usecases\\v1\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:source\\authservice.webapi\\usecases\\v1\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\usecases\\v1\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\usecases\\v1\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\usecases\\v1\\registration\\registrationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\usecases\\v1\\registration\\registrationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086082D-334C-4E43-83EA-615B293DFA03}|source\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\microservice_poc\\authservice\\source\\authservice.infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086082D-334C-4E43-83EA-615B293DFA03}|source\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:source\\authservice.infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\microservice_poc\\authservice\\source\\authservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:source\\authservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC6AD24-430F-4E4B-911E-2C9617BBAA5F}|source\\AuthService.Domain\\AuthService.Domain.csproj|d:\\microservice_poc\\authservice\\source\\authservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC6AD24-430F-4E4B-911E-2C9617BBAA5F}|source\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:source\\authservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\usecases\\v1\\login\\logininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\usecases\\v1\\login\\logininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\usecases\\v1\\login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\usecases\\v1\\login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\microservice_poc\\authservice\\source\\authservice.webapi\\usecases\\v1\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:source\\authservice.webapi\\usecases\\v1\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\microservice_poc\\authservice\\source\\authservice.webapi\\usecases\\v1\\registration\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7777BF6E-A451-4114-9C1A-A0A7C6B33409}|source\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:source\\authservice.webapi\\usecases\\v1\\registration\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\usecases\\v1\\registration\\registrationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\usecases\\v1\\registration\\registrationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|d:\\microservice_poc\\authservice\\source\\authservice.application\\usecases\\v1\\registration\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2898A88-7569-47A9-AFF3-AB206A9D5A6C}|source\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:source\\authservice.application\\usecases\\v1\\registration\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "source\\AuthService.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\appsettings.json*",
+              "RelativeToolTip": "source\\AuthService.WebAPI\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T14:49:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Infrastructure\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "source\\AuthService.Infrastructure\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:36:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\Program.cs",
+              "RelativeToolTip": "source\\AuthService.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:39:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "source\\AuthService.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:38:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "source\\AuthService.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:34:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:34:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Login\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\UseCases\\V1\\Login\\LoginHandler.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Login\\LoginHandler.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\UseCases\\V1\\Login\\LoginHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:33:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Login\\LoginVm.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\UseCases\\V1\\Login\\LoginVm.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Login\\LoginVm.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\UseCases\\V1\\Login\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:32:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginInput.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Login\\LoginInput.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\UseCases\\V1\\Login\\LoginInput.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Login\\LoginInput.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\UseCases\\V1\\Login\\LoginInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:30:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiRoutes.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "RelativeToolTip": "source\\AuthService.WebAPI\\UseCases\\V1\\ApiRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:30:21.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\UseCases\\V1\\Login\\LoginController.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.WebAPI\\UseCases\\V1\\Login\\LoginController.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\UseCases\\V1\\Login\\LoginController.cs",
+              "RelativeToolTip": "source\\AuthService.WebAPI\\UseCases\\V1\\Login\\LoginController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:29:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationHandler.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationHandler.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationHandler.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationHandler.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:08:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationVm.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationVm.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationVm.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationVm.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:04:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationInput.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationInput.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationInput.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationInput.cs",
+              "RelativeToolTip": "source\\AuthService.Application\\UseCases\\V1\\Registration\\RegistrationInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:01:14.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\UseCases\\V1\\Registration\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "source\\AuthService.WebAPI\\UseCases\\V1\\Registration\\RegistrationController.cs",
+              "ToolTip": "D:\\Microservice_POC\\AuthService\\source\\AuthService.WebAPI\\UseCases\\V1\\Registration\\RegistrationController.cs",
+              "RelativeToolTip": "source\\AuthService.WebAPI\\UseCases\\V1\\Registration\\RegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:56:52.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
